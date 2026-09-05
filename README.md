@@ -32,6 +32,20 @@ The objective was to support structured data review and identify records that ma
 - Beneficiary remarks and 1 October availability were analyzed using Pandas.
 - Charts were created to present the findings visually.
 
+## 📊 Visualizations
+
+### Beneficiaries by Sub Division
+
+![Beneficiaries by Sub Division](subdivision_chart.png)
+
+### 1 October Availability
+
+![1 October Availability](availability_chart.png)
+
+### Beneficiary Remarks
+
+![Beneficiary Remarks](remarks_chart.png)
+
 # Project Files
 | File | Description |
 | `ladli_project.ipynb` | Jupyter Notebook containing the complete analysis |
