@@ -1,0 +1,51 @@
+S. No.,Member Name,Name of the Father/Mother/ Gaurdian Matched with existing data on record (Y/N),Bank Account in Beneficiariry's Name ? (Y/N),Bank Name matched with existing data (Y/N),Eligibility Certificates (10th pass/12th admission/12th pass) Checked with originals? (Y/N),Phone Number availibility of the Beneficiary (If any),1 Oct Avalilability,Remarks,Sub division
+1,AARAV SHARMA,Y,Y,Y,Y,Y,Yes,Done,CHANAKYAPURI
+2,ANANYA VERMA,Y,Y,Y,Y,Y,Yes,Done,SOUTH DELHI
+3,RIYA GUPTA,Y,Y,Y,Y,Y,Yes,Follow-up required,CHANAKYAPURI
+4,ADITYA SINGH,Y,Y,Y,Y,Y,Yes,Done,CENTRAL DELHI
+5,PRIYA YADAV,Y,Y,Y,Y,Y,No,Not reachable,WEST DELHI
+6,KAVYA RANA,Y,Y,Y,N,Y,No,Verification required,CHANAKYAPURI
+7,ROHAN KUMAR,Y,N,Y,Y,Y,No,Verification required,SOUTH DELHI
+8,SIMRAN KAUR,Y,Y,Y,Y,Y,Yes,Done,NORTH DELHI
+9,NEHA MEHRA,N,Y,Y,Y,Y,No,Verification required,CHANAKYAPURI
+10,ARJUN MALIK,Y,Y,Y,Y,Y,No,Done,CENTRAL DELHI
+11,ISHA THAKUR,Y,Y,Y,Y,Y,Yes,Done,SOUTH DELHI
+12,VIVEK SHARMA,Y,Y,N,Y,Y,No,Verification required,CHANAKYAPURI
+13,TANYA GUPTA,Y,Y,Y,Y,Y,No,Done,WEST DELHI
+14,MOHIT YADAV,Y,Y,Y,Y,Y,Yes,Done,SOUTH DELHI
+15,SAKSHI VERMA,Y,Y,Y,N,Y,No,Verification required,CHANAKYAPURI
+16,NIKHIL SINGH,Y,Y,Y,Y,Y,Yes,Done,CENTRAL DELHI
+17,PALAK RATHORE,Y,Y,Y,Y,Y,No,Not reachable,NORTH DELHI
+18,AYUSH KUMAR,Y,N,Y,Y,N,No,Verification required,CHANAKYAPURI
+19,DIYA SHARMA,Y,Y,Y,Y,Y,Yes,Done,SOUTH DELHI
+20,HARSHIT GUPTA,Y,Y,Y,Y,Y,Yes,Follow-up required,WEST DELHI
+21,MEHAK RANI,Y,Y,Y,Y,Y,Yes,Done,CHANAKYAPURI
+22,KUNAL MALIK,N,Y,Y,Y,Y,Yes,Verification required,KMP/ SE
+23,SHREYA SINGH,Y,Y,Y,Y,Y,Yes,Done,CENTRAL DELHI
+24,AMAN VERMA,Y,Y,Y,Y,Y,No,Not reachable,SOUTH DELHI
+25,MUSKAN YADAV,Y,Y,Y,Y,Y,Yes,Done,CHANAKYAPURI
+26,YASH THAKUR,Y,Y,N,Y,Y,Yes,Verification required,NORTH DELHI
+27,ANJALI SHARMA,Y,Y,Y,Y,Y,Yes,Done,SOUTH DELHI
+28,RAHUL KUMAR,Y,Y,Y,N,N,Yes,Verification required,CHANAKYAPURI
+29,TANVI GUPTA,Y,Y,Y,Y,Y,Yes,Follow-up required,WEST DELHI
+30,ROHIT MEHRA,Y,Y,Y,Y,Y,No,Done,CENTRAL DELHI
+31,NANDINI RANA,Y,N,Y,Y,Y,Yes,Verification required,CHANAKYAPURI
+32,KARTIK SINGH,Y,Y,Y,Y,Y,Yes,Done,SOUTH DELHI
+33,PALLAVI VERMA,Y,Y,Y,Y,Y,No,Not reachable,KMP/ SE
+34,ABHISHEK YADAV,Y,Y,Y,Y,Y,Yes,Done,CHANAKYAPURI
+35,RITIKA SHARMA,Y,Y,Y,N,Y,Yes,Verification required,NORTH DELHI
+36,DEEPAK KUMAR,Y,Y,Y,Y,Y,Yes,Done,CENTRAL DELHI
+37,KOMAL GUPTA,N,Y,Y,Y,Y,Yes,Verification required,CHANAKYAPURI
+38,SACHIN MALIK,Y,Y,Y,Y,Y,Yes,Done,SOUTH DELHI
+39,PREETI SINGH,Y,Y,Y,Y,Y,Yes,Done,WEST DELHI
+40,MANISH VERMA,Y,Y,N,Y,N,No,Verification required,CHANAKYAPURI
+41,NISHA YADAV,Y,Y,Y,Y,Y,Yes,Done,SOUTH DELHI
+42,VARUN SHARMA,Y,Y,Y,Y,Y,Yes,Follow-up required,CENTRAL DELHI
+43,SHIVANI RANA,Y,Y,Y,Y,Y,No,Done,CHANAKYAPURI
+44,DEEPAK GUPTA,Y,N,Y,Y,N,No,Verification required,NORTH DELHI
+45,POOJA MEHRA,Y,Y,Y,Y,Y,Yes,Done,SOUTH DELHI
+46,RAJAT SINGH,Y,Y,Y,Y,Y,No,Not reachable,CHANAKYAPURI
+47,MONIKA VERMA,Y,Y,Y,Y,Y,Yes,Done,WEST DELHI
+48,GAURAV KUMAR,Y,Y,Y,N,N,No,Verification required,CENTRAL DELHI
+49,SWATI SHARMA,Y,Y,Y,Y,Y,Yes,Done,CHANAKYAPURI
+50,AMIT YADAV,Y,Y,Y,Y,Y,Yes,Done,SOUTH DELHI
